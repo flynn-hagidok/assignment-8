@@ -1,4 +1,4 @@
-import { useLoaderData, useNavigate } from "react-router";
+import { Link, useLoaderData } from "react-router";
 import Banner from "../../components/Banner/Banner";
 import HomeApps from "./HomeApps";
 
@@ -8,7 +8,6 @@ const Home = () => {
     const apps = useLoaderData()
     const homeApps = apps.slice(0, 8)
 
-    const navigate = useNavigate()
 
     return (
         <div className="">
@@ -23,7 +22,9 @@ const Home = () => {
                     }
                 </div>
 
-                <button className="mt-10 py-3 px-10 font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-sm cursor-pointer" onClick={() => navigate("/apps")}>Show All</button>
+                <button className="mt-10 py-3 px-10 font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white rounded-sm cursor-pointer">
+                    <Link to="/apps">Show All</Link>
+                </button>
             </div>
         </div>
     );

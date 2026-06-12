@@ -1,15 +1,14 @@
+import { NavLink } from "react-router";
 import downloadImg from "../../assets/icon-downloads.png"
 import ratingLogo from "../../assets/icon-ratings.png"
 
-const AllApps = ({ app }) => {
+const AllApps = ({ appData }) => {
 
-    const {image, title, downloads, ratingAvg} = app;
-    // console.log(app)
-    
+    const { id, image, title, downloads, ratingAvg } = appData;
 
     return (
-        <div className="p-4 bg-[#ffff] text-black cursor-pointer">
-            <img src={image} alt="" className="h-60 w-full rounded-sm object-cover shadow" />
+        <NavLink to={`/apps-details/${id}`} className="p-4 bg-[#ffff] text-black cursor-pointer rounded-sm">
+            <img src={image} alt="" className="h-60 w-full rounded-sm object-fill shadow" />
 
             <h4 className="text-left text-[1.25rem] font-medium mt-4">{title}</h4>
 
@@ -24,7 +23,7 @@ const AllApps = ({ app }) => {
                     {ratingAvg}
                 </button>
             </div>
-        </div>
+        </NavLink>
     );
 };
 

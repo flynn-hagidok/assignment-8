@@ -10,9 +10,8 @@ const AppsDetails = () => {
     const appsData = useLoaderData();
     const { id } = useParams()
     const appId = parseInt(id)
-    // console.log(typeof appId);
     const singleApp = appsData.find(app => appId === app.id)
-    // console.log(singleApp);
+
 
     const { title, image, companyName, downloads, reviews, ratingAvg, size, ratings, description } = singleApp
 
