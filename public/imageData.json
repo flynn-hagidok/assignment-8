@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://i.ibb.co.com/BHFg7mGv/chat-flow-ai.jpg",
+    "title": "ChatFlow AI",
+    "companyName": "TechNova",
+    "id": 1,
+    "description": "ChatFlow AI is a smart productivity and communication assistant designed to simplify everyday tasks. Users can ask questions, generate content, summarize documents, and receive intelligent recommendations in seconds. The app includes task management tools, reminder systems, and cloud synchronization across devices. Its AI engine continuously improves through machine learning, ensuring more accurate responses over time. Whether you are a student, freelancer, or business professional, ChatFlow AI helps boost efficiency and save valuable time. The modern interface and user-friendly design make it suitable for users of all experience levels.",
+    "size": 85,
+    "reviews": 12540,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 3120 },
+      { "name": "5 star", "count": 8440 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hR533w7p/images.jpg",
+    "title": "FitTrack Pro",
+    "companyName": "HealthSync",
+    "id": 2,
+    "description": "FitTrack Pro is an advanced fitness and wellness application built to help users achieve their health goals. It allows tracking of workouts, calorie intake, daily steps, and overall physical activity. The app provides customized workout plans and detailed progress reports based on personal objectives. Integration with wearable devices ensures accurate health monitoring. Users can participate in fitness challenges, compare progress with friends, and stay motivated throughout their journey. The intuitive dashboard and insightful analytics make it easier to understand fitness trends and maintain a healthier lifestyle.",
+    "size": 120,
+    "reviews": 9870,
+    "ratingAvg": 4.6,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 5750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1JqQm9ZL/images-1.jpg",
+    "title": "FoodExpress",
+    "companyName": "QuickBite",
+    "id": 3,
+    "description": "FoodExpress makes ordering food fast, convenient, and enjoyable. Users can browse thousands of restaurants, discover new cuisines, and place orders within minutes. The app offers real-time order tracking, secure payment options, and personalized food recommendations based on previous purchases. Exclusive discounts and promotional offers help customers save money while enjoying their favorite meals. Restaurant ratings and customer reviews assist in making informed choices. With its efficient delivery network and user-friendly interface, FoodExpress provides a seamless food ordering experience for individuals and families.",
+    "size": 95,
+    "reviews": 15400,
+    "ratingAvg": 4.5,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Nn6sMYFx/music-wave.jpg",
+    "title": "MusicWave",
+    "companyName": "SoundSphere",
+    "id": 4,
+    "description": "MusicWave is a complete music streaming platform that provides access to millions of songs, albums, and podcasts. Users can create personalized playlists, download music for offline listening, and discover new artists through intelligent recommendations. High-quality audio streaming ensures an enjoyable listening experience across devices. The platform also offers curated playlists for different moods, activities, and genres. Whether commuting, studying, or relaxing, MusicWave helps users enjoy their favorite content anytime. The clean interface and extensive music library make it a popular choice among music enthusiasts.",
+    "size": 150,
+    "reviews": 20200,
+    "ratingAvg": 4.7,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 13350 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ktwGMhb/travel-mate.jpg",
+    "title": "TravelMate",
+    "companyName": "GlobeTech",
+    "id": 5,
+    "description": "TravelMate is a powerful travel companion designed for planning and managing trips efficiently. Users can search destinations, book accommodations, compare travel options, and create detailed itineraries. The app provides local recommendations, weather forecasts, and travel guides to improve the overall experience. Interactive maps help travelers navigate unfamiliar locations with ease. TravelMate also allows users to organize bookings and receive important travel updates in one place. Whether planning a weekend getaway or an international adventure, the app simplifies every stage of the travel process.",
+    "size": 105,
+    "reviews": 7420,
+    "ratingAvg": 4.4,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 820 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 3670 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/KxkNM87W/images-2.jpg",
+    "title": "PhotoMagic",
+    "companyName": "PixelWorks",
+    "id": 6,
+    "description": "PhotoMagic is an advanced photo editing application packed with creative tools and AI-powered enhancements. Users can apply professional filters, remove unwanted objects, adjust lighting, and create stunning visual effects with minimal effort. The app includes portrait retouching features, background editing options, and artistic templates for social media content. AI technology automatically improves image quality while preserving natural details. Whether you are a casual photographer or content creator, PhotoMagic offers the flexibility needed to transform ordinary photos into professional-looking masterpieces.",
+    "size": 180,
+    "reviews": 11800,
+    "ratingAvg": 4.7,
+    "downloads": 6700000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7510 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1fKmkbQP/images.png",
+    "title": "LearnHub",
+    "companyName": "EduSmart",
+    "id": 7,
+    "description": "LearnHub is an online learning platform that helps users develop valuable skills through high-quality educational content. The app offers courses in technology, business, design, language learning, and personal development. Interactive quizzes, assignments, and progress tracking tools ensure an engaging learning experience. Users can learn at their own pace and earn certificates upon course completion. Expert instructors provide practical lessons designed for real-world application. LearnHub's intuitive design and extensive course catalog make it an excellent resource for students, professionals, and lifelong learners.",
+    "size": 90,
+    "reviews": 9600,
+    "ratingAvg": 4.8,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 6720 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qF02kR74/images-3.jpg",
+    "title": "GameZone",
+    "companyName": "FunPlay Studios",
+    "id": 8,
+    "description": "GameZone is an exciting gaming platform featuring competitive multiplayer games, tournaments, and social features. Players can challenge friends, join online communities, and participate in special events for rewards. The app supports real-time matchmaking, leaderboards, and customizable player profiles. Frequent updates introduce new content, challenges, and gameplay improvements. Whether you enjoy casual gaming or competitive esports-style experiences, GameZone offers entertainment for every type of player. Its smooth performance and engaging features create a fun and immersive gaming environment.",
+    "size": 250,
+    "reviews": 22400,
+    "ratingAvg": 4.3,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 10950 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Fjf7fD2/unnamed.jpg",
+    "title": "SecureVault",
+    "companyName": "CyberShield",
+    "id": 9,
+    "description": "SecureVault is a trusted security solution designed to protect passwords, documents, and sensitive information. The app uses advanced encryption technology to ensure data remains private and secure. Users can store login credentials, generate strong passwords, and access important files from multiple devices. Biometric authentication adds an additional layer of protection for enhanced security. SecureVault also provides alerts for weak passwords and potential security risks. The combination of convenience and protection makes it an essential tool for maintaining digital privacy.",
+    "size": 70,
+    "reviews": 6200,
+    "ratingAvg": 4.6,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/hRDqWH5f/unnamed.png",
+    "title": "FinanceBuddy",
+    "companyName": "MoneyWise",
+    "id": 10,
+    "description": "FinanceBuddy helps users take control of their personal finances through powerful budgeting and expense-tracking tools. The app categorizes spending, monitors income, and provides detailed financial reports to improve money management. Users can create savings goals, set reminders for bills, and track financial progress over time. Smart insights identify spending habits and suggest opportunities for improvement. Secure synchronization ensures financial information is accessible across devices. FinanceBuddy simplifies personal finance management and helps users build healthier financial habits.",
+    "size": 65,
+    "reviews": 8100,
+    "ratingAvg": 4.5,
+    "downloads": 2400000,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4580 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/99jzpS7h/images-4.jpg",
+    "title": "WeatherNow",
+    "companyName": "SkyData",
+    "id": 11,
+    "description": "WeatherNow provides accurate weather forecasts and real-time alerts to help users prepare for changing conditions. The app delivers hourly, daily, and weekly forecasts supported by advanced weather data. Interactive radar maps and severe weather notifications keep users informed about storms and other environmental events. Personalized updates allow users to monitor weather conditions in multiple locations. The clean interface makes it easy to access important information quickly. Whether planning outdoor activities or daily commutes, WeatherNow helps users stay informed and prepared.",
+    "size": 45,
+    "reviews": 5300,
+    "ratingAvg": 4.4,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 2930 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9bNjPrV/images-5.jpg",
+    "title": "NoteMaster",
+    "companyName": "Productive Labs",
+    "id": 12,
+    "description": "NoteMaster is a productivity application designed for organizing notes, tasks, and projects efficiently. Users can create structured notes, build to-do lists, and collaborate with team members in real time. Powerful search functionality makes finding information quick and effortless. Cloud synchronization ensures notes remain available across all devices. The app supports rich text formatting, attachments, and customizable organization systems. Whether used for study, work, or personal planning, NoteMaster helps users stay organized and productive throughout the day.",
+    "size": 55,
+    "reviews": 7100,
+    "ratingAvg": 4.7,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 430 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 4660 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xtRgkPkT/images-1.png",
+    "title": "MovieBox",
+    "companyName": "StreamMedia",
+    "id": 13,
+    "description": "MovieBox offers unlimited entertainment through a vast collection of movies, television shows, and exclusive content. Users can stream in high definition, download content for offline viewing, and receive personalized recommendations based on viewing habits. The platform features multiple genres, subtitles, and parental control settings. Regular content updates ensure fresh entertainment options are always available. MovieBox is designed to provide a seamless viewing experience across smartphones, tablets, and smart TVs. It is an ideal solution for movie lovers seeking convenience and variety.",
+    "size": 210,
+    "reviews": 18400,
+    "ratingAvg": 4.6,
+    "downloads": 9200000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4900 },
+      { "name": "5 star", "count": 11550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pvSMgcwX/images-6.jpg",
+    "title": "ShopEasy",
+    "companyName": "RetailTech",
+    "id": 14,
+    "description": "ShopEasy is a comprehensive online shopping application that connects users with thousands of products from trusted sellers. The app provides advanced search tools, personalized recommendations, and secure checkout options. Customers can compare products, read verified reviews, and track orders in real time. Exclusive discounts and seasonal promotions help users find the best deals. Fast delivery services and reliable customer support improve the overall shopping experience. ShopEasy makes online shopping simple, convenient, and accessible for users of all ages.",
+    "size": 110,
+    "reviews": 16800,
+    "ratingAvg": 4.5,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 9360 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zVCWd1sy/images-2.png",
+    "title": "LanguageGo",
+    "companyName": "LinguaTech",
+    "id": 15,
+    "description": "LanguageGo helps users learn new languages through interactive lessons, practical exercises, and real-world conversations. The app covers vocabulary, grammar, pronunciation, and listening skills using engaging learning methods. Personalized study plans adapt to individual learning styles and progress levels. Gamified challenges and achievement systems help maintain motivation throughout the learning journey. Users can practice with native speaker content and track performance through detailed analytics. LanguageGo makes language learning enjoyable, effective, and accessible for beginners as well as advanced learners.",
+    "size": 88,
+    "reviews": 8900,
+    "ratingAvg": 4.8,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 390 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 6430 }
+    ]
+  }
+]
