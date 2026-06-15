@@ -24,6 +24,7 @@ export const router = createBrowserRouter([
             },
             {
                 path: "/installation",
+                loader: () => fetch("/imageData.json"),
                 Component: Installation
             },
             {
