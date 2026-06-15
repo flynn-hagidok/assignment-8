@@ -14,7 +14,7 @@ const Apps = () => {
             </div>
             <div className="lg:flex justify-between mt-8">
                 <p className="font-semibold text-[1.5rem] mb-4 lg:mb-0">({appsData.length}) Apps Found</p>
-                <input type="search" name="" id="" placeholder="search" className="bg-white text-black w-80 px-2 py-1 outline-none rounded-sm t"/>
+                <input type="search" name="" id="" placeholder="search" className="bg-white text-black w-80 px-2 py-1 outline-none rounded-sm"/>
             </div>
             <div className="grid lg:grid-cols-4 gap-10 mt-6">
                 {

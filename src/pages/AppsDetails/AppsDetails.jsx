@@ -3,6 +3,8 @@ import downloadIcon from "../../assets/icon-downloads.png"
 import ratingIcon from "../../assets/icon-ratings.png"
 import reviewsIcon from "../../assets/icon-review.png"
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import { addToDB, getStoredData } from "../../utility/AddToDB";
+import { useEffect, useState } from "react";
 
 
 const AppsDetails = () => {
@@ -12,6 +14,17 @@ const AppsDetails = () => {
     const appId = parseInt(id)
     const singleApp = appsData.find(app => appId === app.id)
 
+    const [isInstalled, setInstalled] = useState(false)
+
+    const handleInstall = (id) => {
+        addToDB(id)
+        setInstalled(true)
+    }
+
+    useEffect(() => {
+        const installApps = getStoredData()
+        setInstalled(installApps.includes(id))
+    }, [id])
 
     const { title, image, companyName, downloads, reviews, ratingAvg, size, ratings, description } = singleApp
 
@@ -41,7 +54,11 @@ const AppsDetails = () => {
                             <h2 className="text-[2rem] font-extrabold">{reviews}</h2>
                         </div>
                     </div>
-                    <button className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] w-50 p-4 rounded-sm mt-8 font-semibold cursor-pointer">Install Now ({size} MB)</button>
+                    <button disabled={isInstalled} className={`w-50 p-4 rounded-sm mt-8 font-semibold
+                        ${isInstalled
+                            ? "bg-gray-500 cursor-not-allowed"
+                            : "bg-gradient-to-r from-[#632EE3] to-[#9F62F2] cursor-pointer"
+                        }`} onClick={() => handleInstall(id)}>{isInstalled ? "Installed" : `Install Now (${size} MB)`}</button>
                 </div>
             </div>
 
