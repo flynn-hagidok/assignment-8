@@ -5,6 +5,7 @@ import reviewsIcon from "../../assets/icon-review.png"
 import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { addToDB, getStoredData } from "../../utility/AddToDB";
 import { useEffect, useState } from "react";
+import { toast, ToastContainer } from "react-toastify";
 
 
 const AppsDetails = () => {
@@ -19,6 +20,7 @@ const AppsDetails = () => {
     const handleInstall = (id) => {
         addToDB(id)
         setInstalled(true)
+        toast("App Installed!")
     }
 
     useEffect(() => {
